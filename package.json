@@ -4,7 +4,7 @@
   "description": "Simple json database to deploy to the host of your choice",
   "main": "server.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "nodemon src/server.js"
   },
   "keywords": [
     "json-server,heroku, node, REST API"
