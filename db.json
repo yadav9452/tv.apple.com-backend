@@ -48,15 +48,15 @@
   ],
   "movies2": [
     {
-      "id": 8,
-      "title": "Memento",
-      "year": "2000",
-      "runtime": "113",
-      "genres": ["Mystery", "Thriller"],
-      "director": "Christopher Nolan",
-      "actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",
-      "plot": "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNThiYjM3MzktMDg3Yy00ZWQ3LTk3YWEtN2M0YmNmNWEwYTE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+      "id": 139,
+      "title": "Whiplash",
+      "year": "2014",
+      "runtime": "107",
+      "genres": ["Drama", "Music"],
+      "director": "Damien Chazelle",
+      "actors": "Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist",
+      "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4OTQ3MDUyMV5BMl5BanBnXkFtZTgwOTA2MjU0MjE@._V1_SX300.jpg"
     },
     {
       "id": 9,
