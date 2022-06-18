@@ -9,6 +9,9 @@
   "keywords": [
     "json-server,heroku, node, REST API"
   ],
+  "engines": {
+    "node": "17.6.0"
+  },
   "author": "Jesper Orb",
   "license": "ISC",
   "dependencies": {
